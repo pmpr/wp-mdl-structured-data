@@ -1,0 +1,7 @@
+<?php
+/*   _______________________________________
+    |  Obfuscated by PMPR - Php Obfuscator  |
+    |             61d46aa5ca971             |
+    |_______________________________________|
+*/
+ namespace Pmpr\Package\StructuredData\Schema\CreativeWork\Comment; use Pmpr\Common\Foundation\Manipulate\Post\ManipulateComment; use Pmpr\Package\StructuredData\Schema\CreativeWork\CreativeWork; use Pmpr\Package\StructuredData\Schema\Intangible\Rating\Rating; use Pmpr\Package\StructuredData\Schema\Person; class Comment extends CreativeWork { public function __construct($aqqmosqmsuueyaes = null, $goiqeyeaqmicqiky = true) { if (!($goiqeyeaqmicqiky && $aqqmosqmsuueyaes)) { goto ooeausyowguqicuo; } $aokagokqyuysuksm = ManipulateComment::mwikyscisascoeea($aqqmosqmsuueyaes); $this->oyecyiciiuqooyio(new Person($aqqmosqmsuueyaes))->ykumikyaccuwocyw((new Rating())->squsoiakemiuoouq($this->sscegwueamckwmcy("\147\x65\x74\x5f\162\141\164\x69\156\147\137\x61\x76\x65\x72\x61\x67\145", 0, ManipulateComment::ayueggmoqeeukqmq($aqqmosqmsuueyaes)))->iaqckqwoiseyqaku($this->cyamgsaeyiqasmcc()->ggiaseqygioygumq($aokagokqyuysuksm)))->ogoesumqawygewou(ManipulateComment::squyiyimquqicqke($aqqmosqmsuueyaes, "\131\55\x6d\55\144\40\x48\x3a\x69\72\x73", false))->gucwmccyimoagwcm(ManipulateComment::souwykwwmyygqyqi($aqqmosqmsuueyaes))->iaqckqwoiseyqaku($this->cyamgsaeyiqasmcc()->oockkiieqcwiocga($aqqmosqmsuueyaes)->ggiaseqygioygumq(ManipulateComment::mwikyscisascoeea($aqqmosqmsuueyaes))); ooeausyowguqicuo: parent::__construct($goiqeyeaqmicqiky); } }

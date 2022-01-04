@@ -1,0 +1,7 @@
+<?php
+/*   _______________________________________
+    |  Obfuscated by PMPR - Php Obfuscator  |
+    |             61d46aa5ca971             |
+    |_______________________________________|
+*/
+ namespace Pmpr\Package\StructuredData; use Pmpr\Common\Foundation\Container\Container as BaseClass; use Pmpr\Common\Foundation\Manipulate\ManipulateServer; use Pmpr\Common\Foundation\Manipulate\Post\ManipulatePage; use Pmpr\Package\StructuredData\Setting\Setting; class Container extends BaseClass { const amgecouwceeaomww = "\141\x70\160\154\x69\x63\141\164\151\157\x6e\57\154\x64\53\152\163\157\x6e"; public function __construct() { $this->settingObj = Setting::symcgieuakksimmu(); parent::__construct(); } public function mkkwgaqcigqqmege($ywmkwiwkosakssii = []) { return $this->sscegwueamckwmcy("\x74\150\145\x6d\x65\137\154\157\147\x6f\137\x67\145\x74\x5f\x64\141\x74\x61", [], $ywmkwiwkosakssii); } public function ycqquoiyyuesegsy($sycgeiyakseiumqy = false, $yyimiwcuegayoskq = null) { $migiiksoiymissge = null; if ($sycgeiyakseiumqy) { goto umgaesggesswoaqe; } if ($yyimiwcuegayoskq) { goto wwkgkaecgiwggcck; } $yyimiwcuegayoskq = ManipulatePage::iqoacwuiemooiysg(); wwkgkaecgiwggcck: $migiiksoiymissge = $yyimiwcuegayoskq->ycqquoiyyuesegsy(); goto qsygcycwieukkgwc; umgaesggesswoaqe: $migiiksoiymissge = ManipulateServer::gmigwwwmwemyaayy(); qsygcycwieukkgwc: return (string) $this->sscegwueamckwmcy($this->ygyygikyocoymgaw("\x6d\141\x72\153\x75\x70\137\160\145\162\x6d\141\154\x69\x6e\153"), $migiiksoiymissge); } }

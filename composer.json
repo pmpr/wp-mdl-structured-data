@@ -1,0 +1,26 @@
+{
+  "name": "pmpr-pkg/wp-pkg-structured-data",
+  "type": "project",
+  "license": "proprietary",
+  "description": "Structured Data Package for Wordpress",
+  "keywords": [
+    "google-structured",
+    "structureddata",
+    "wordpress",
+    "package"
+  ],
+  "require": {
+    "php": ">=7.4",
+    "pmpr-cmn/wp-cmn-foundation": "dev-main"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pmpr\\Package\\StructuredData\\": "src/Pmpr/Package/StructuredData"
+    },
+    "files": [
+      "index.php"
+    ]
+  },
+  "minimum-stability": "dev"
+}
+

@@ -1,0 +1,7 @@
+<?php
+/*   _______________________________________
+    |  Obfuscated by PMPR - Php Obfuscator  |
+    |             61d46aa5ca971             |
+    |_______________________________________|
+*/
+ namespace Pmpr\Package\StructuredData\Setting; use Pmpr\Common\Foundation\FormMaker\Admin\Element\MetaBox; use Pmpr\Common\Foundation\Media\Icon\Interfaces\IconFontawesomeInterface; class Place extends Thing { const iusoqcmuoaoewkis = "\143\151\x74\151\145\163"; public function aucimgwswmgaocae($ywoucyskcquysiwc) { $ywoucyskcquysiwc[] = MetaBox::sgsmqaoowiyocqaa(self::aakmagwggmkoiiyu() . "\x5f\164\x61\142", __("\x50\x6c\x61\x63\145\x20\104\x61\164\x61", PR__PKG__STRUCTURED_DATA))->sikqggwmmykuiymy(MetaBox::cgygmuguceeosoey(self::aakmagwggmkoiiyu() . "\x5f\143\151\164\171", __("\103\x69\x74\x79", PR__PKG__STRUCTURED_DATA))->mkksewyosgeumwsa(MetaBox::iseogkiymousogom(self::iusoqcmuoaoewkis, __("\x43\x69\164\151\145\x73", PR__PKG__STRUCTURED_DATA))->mkksewyosgeumwsa(MetaBox::ymuegqgyuagyucws(MetaBox::NAME, __("\x4e\141\155\x65", PR__PKG__STRUCTURED_DATA)))->mkksewyosgeumwsa(MetaBox::cwiuiiakukcsaakw(MetaBox::ascagqcquwgmygkm))->usosgsaaimqcysyk())->saemoowcasogykak(IconFontawesomeInterface::cqmwgemqywawikek))->saemoowcasogykak(IconFontawesomeInterface::mmeuwqeeayywqgcq); return parent::aucimgwswmgaocae($ywoucyskcquysiwc); } public function iasywwkguyauiywu($eqgoocgaqwqcimie, $msqkueqksqwmskak) { $eqgoocgaqwqcimie = Setting::wcoqgwyekgsmiueo($eqgoocgaqwqcimie, self::iusoqcmuoaoewkis); return parent::iasywwkguyauiywu($eqgoocgaqwqcimie, $msqkueqksqwmskak); } }
