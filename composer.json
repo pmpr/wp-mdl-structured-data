@@ -1,8 +1,8 @@
 {
-  "name": "pmpr-pkg/wp-pkg-structured-data",
+  "name": "pmpr-mod/wp-mod-structured-data",
   "type": "project",
   "license": "proprietary",
-  "description": "Structured Data Package for Wordpress",
+  "description": "Structured Data Module for Wordpress",
   "keywords": [
     "google-structured",
     "structureddata",
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Pmpr\\Package\\StructuredData\\": "src/Pmpr/Package/StructuredData"
+      "Pmpr\\Module\\StructuredData\\": "src/Pmpr/Module/StructuredData"
     },
     "files": [
       "index.php"

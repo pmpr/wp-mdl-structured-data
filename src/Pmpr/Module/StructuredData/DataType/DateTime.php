@@ -4,4 +4,4 @@
     |             6240126d67fd7             |
     |_______________________________________|
 */
- use Pmpr\Module\StructuredData\StructuredData; StructuredData::symcgieuakksimmu();
+ namespace Pmpr\Module\StructuredData\DataType; class DateTime extends DataType { }

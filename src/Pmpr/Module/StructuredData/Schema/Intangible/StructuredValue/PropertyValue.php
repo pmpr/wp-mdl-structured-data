@@ -4,4 +4,4 @@
     |             6240126d67fd7             |
     |_______________________________________|
 */
- use Pmpr\Module\StructuredData\StructuredData; StructuredData::symcgieuakksimmu();
+ namespace Pmpr\Module\StructuredData\Schema\Intangible\StructuredValue; class PropertyValue extends Common { protected ?string $propertyID = null; }
