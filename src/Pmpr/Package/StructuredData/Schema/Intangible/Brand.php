@@ -1,7 +1,0 @@
-<?php
-/*   _______________________________________
-    |  Obfuscated by PMPR - Php Obfuscator  |
-    |             621f76a412065             |
-    |_______________________________________|
-*/
- namespace Pmpr\Package\StructuredData\Schema\Intangible; use Pmpr\Package\StructuredData\Setting\Setting; class Brand extends Intangible { protected $logo = null; protected $review = null; protected ?string $slogan = null; protected $aggregateRating = null; public function __construct($goiqeyeaqmicqiky = true) { $this->isGlobal = true; if (!$goiqeyeaqmicqiky) { goto mwsmsguqqkcwiiuk; } $this->wqkwkoysgkaaewkc(Setting::gckekgcikugasqwu())->aayqioqmoaasosqc(get_bloginfo("\144\145\x73\143\162\x69\160\x74\151\157\156"))->usuqmwksoeaayaig(get_bloginfo("\x6e\141\155\145"))->iaqckqwoiseyqaku()->ougqggyqmaemmkik(); mwsmsguqqkcwiiuk: parent::__construct($goiqeyeaqmicqiky); } public function oeaeiissukoeowwe() { return $this->aggregateRating; } public function nsqwikmawcqqyayk($gggmygsysokgmaiq) { $this->aggregateRating = $gggmygsysokgmaiq; return $this; } public function gckekgcikugasqwu() { return $this->logo; } public function wqkwkoysgkaaewkc($weowoqykiyuqcwam) { $this->logo = $weowoqykiyuqcwam; return $this; } public function yieewsuceqymoqeu() { return $this->review; } public function wacyaeigikuoaogy($qkcymeiwcsikkkkk) { $this->review = $qkcymeiwcsikkkkk; return $this; } public function qkmcugoswuqogqqk() { return $this->slogan; } public function aayqioqmoaasosqc($msmuuuiukkuoukoe) { $this->slogan = $msmuuuiukkuoukoe; return $this; } }
