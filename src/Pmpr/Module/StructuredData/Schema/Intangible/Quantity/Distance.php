@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             63ccf406a0f8f             |
+    |             63cd00510bdd0             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema\Intangible\Quantity; class Distance extends Quantity { }
