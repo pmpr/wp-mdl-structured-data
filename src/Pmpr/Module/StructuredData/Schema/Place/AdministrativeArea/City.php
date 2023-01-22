@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             63cc00380239d             |
+    |             63ccf406a0f8f             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema\Place\AdministrativeArea; class City extends AdministrativeArea { }
