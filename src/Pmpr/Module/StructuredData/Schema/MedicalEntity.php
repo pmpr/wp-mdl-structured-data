@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             63cfed099d889             |
+    |             63d10c7a6cd74             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema; class MedicalEntity extends Thing { }

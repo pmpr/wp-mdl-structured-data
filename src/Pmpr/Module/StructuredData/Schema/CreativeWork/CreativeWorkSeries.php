@@ -4,4 +4,4 @@
     |             63d10c7a6cd74             |
     |_______________________________________|
 */
- namespace Pmpr\Module\StructuredData\Schema\Intangible; class EntryPoint extends Intangible { }
+ namespace Pmpr\Module\StructuredData\Schema\CreativeWork; class CreativeWorkSeries extends CreativeWork { }
