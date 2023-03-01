@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             63d10c7a6cd74             |
+    |             63ff96da26438             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema\CreativeWork\Comment; class Answer extends Comment { }
