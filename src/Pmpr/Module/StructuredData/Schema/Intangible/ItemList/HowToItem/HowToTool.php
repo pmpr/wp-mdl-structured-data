@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             63ffc9a4b7bec             |
+    |             642ad11c96360             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema\Intangible\ItemList\HowToItem; class HowToTool extends HowToItem { protected ?string $requiredQuantity = null; public function kqsmaykmowogoaig() : ?string { return $this->requiredQuantity; } public function ikyimeskqesegsas(string $ikgeywmocweyiemi) : self { $this->requiredQuantity = $ikgeywmocweyiemi; return $this; } }
