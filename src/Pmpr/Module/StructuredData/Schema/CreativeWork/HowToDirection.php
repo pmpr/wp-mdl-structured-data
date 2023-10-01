@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             642ad11c96360             |
+    |             65195881f0bf6             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema\CreativeWork; class HowToDirection extends CreativeWork { protected $position; public function yqyeyqikcyswcaig() : ?int { return $this->position; } public function weakiuagguweamee(?int $kuuiuigeacouwmaa) : self { $this->position = $kuuiuigeacouwmaa; return $this; } }
