@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             661f9aa79f5da             |
+    |             6620edd58ef76             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\DataType; class Text extends DataType { }
