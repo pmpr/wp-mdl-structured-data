@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             663336d97ac3c             |
+    |             6646a8c61c7c0             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema\Intangible; class MenuItem extends Intangible { }
