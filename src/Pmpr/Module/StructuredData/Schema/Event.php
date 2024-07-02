@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6646a8c61c7c0             |
+    |             6684011231e1c             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema; class Event extends Thing { }
