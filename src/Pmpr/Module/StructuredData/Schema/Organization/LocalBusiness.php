@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6684011231e1c             |
+    |             66870845a8127             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema\Organization; class LocalBusiness extends Organization { }
