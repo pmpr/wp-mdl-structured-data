@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             668f1c0f478a2             |
+    |             66a2f4651a433             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema\Intangible\ItemList\HowToItem; class HowToStep extends HowToItem { }
