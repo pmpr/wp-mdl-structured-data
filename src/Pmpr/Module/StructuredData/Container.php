@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66cb56fbc5c29             |
+    |             66ce11c1e8366             |
     |_______________________________________|
 */
- namespace Pmpr\Module\StructuredData; use Pmpr\Common\Foundation\Container\Container as BaseClass; use Pmpr\Module\StructuredData\Interfaces\CommonInterface; use Pmpr\Module\StructuredData\Traits\CommonTrait; abstract class Container extends BaseClass implements CommonInterface { use CommonTrait; public function __construct() { $this->settingObj = Setting::symcgieuakksimmu(); parent::__construct(); } }
+ namespace Pmpr\Module\StructuredData; use Pmpr\Common\Foundation\Container\Container as BaseClass; use Pmpr\Module\StructuredData\Traits\CommonTrait; abstract class Container extends BaseClass { use CommonTrait; public function __construct() { $this->settingObj = Setting::symcgieuakksimmu(); parent::__construct(); } }
