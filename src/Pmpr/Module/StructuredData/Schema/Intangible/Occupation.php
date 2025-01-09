@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6716d9c2a7289             |
+    |             677fc5905a7ca             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema\Intangible; class Occupation extends Intangible { }
