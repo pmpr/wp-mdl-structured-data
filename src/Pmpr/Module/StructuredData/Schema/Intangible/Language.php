@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             677fc5905a7ca             |
+    |             67c83a4fbdaf5             |
     |_______________________________________|
 */
- namespace Pmpr\Module\StructuredData\Schema\Intangible; class Language extends Intangible { public function __construct($goiqeyeaqmicqiky = true) { $this->isGlobal = true; parent::__construct($goiqeyeaqmicqiky); } }
+ namespace Pmpr\Module\StructuredData\Schema\Intangible; class Language extends Intangible { public function __construct() { $this->isGlobal = true; } }

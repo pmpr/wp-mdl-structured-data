@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             677fc5905a7ca             |
+    |             67c83a4fbdaf5             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\DataType; class Time extends DataType { }
