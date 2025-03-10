@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             67cecae43b801             |
+    |             67ceddc0eb976             |
     |_______________________________________|
 */
  use Pmpr\Module\StructuredData\StructuredData; StructuredData::symcgieuakksimmu();
