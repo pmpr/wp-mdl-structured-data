@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             680106b138870             |
+    |             682fc6d5edd15             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema\CreativeWork; class CreativeWorkSeries extends CreativeWork { }
